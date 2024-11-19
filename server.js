@@ -1,5 +1,4 @@
 const express = require("express");
-const { result } = require("lodash");
 const app = express()
 
 app.use(express.json())
